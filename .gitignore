@@ -1,0 +1,6 @@
+venv
+.env
+*.py[cod]
+legacy
+.DS_Store
+.idea/
